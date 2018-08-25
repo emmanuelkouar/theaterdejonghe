@@ -1776,6 +1776,20 @@
     margin-left: 1%;
 }
 
+.PrincipalRow{
+	text-align: left; 
+	font-size: 20px;
+	line-height: normal;
+	margin-bottom: 2%;
+}
+
+.SecondaryRow{
+	text-align: left; 
+	font-size: 15px;
+	line-height: normal;
+	margin-bottom: 2%;
+}
+
 @media screen and (max-width: 1880px){
     .Column1{
       display: none;
