@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Sint Patrick's Day March 2016"
+	frameColor="333333"
+
+>
+  <image imageURL="images/13427833_1911461869081001_5894631519071433337_n.jpg"
+	thumbURL="thumbs/13427833_1911461869081001_5894631519071433337_n.jpg"
+	linkURL="images/13427833_1911461869081001_5894631519071433337_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13428450_1911461389081049_3392683934931483555_n.jpg"
+	thumbURL="thumbs/13428450_1911461389081049_3392683934931483555_n.jpg"
+	linkURL="images/13428450_1911461389081049_3392683934931483555_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13445427_1911460842414437_427895172283748983_n.jpg"
+	thumbURL="thumbs/13445427_1911460842414437_427895172283748983_n.jpg"
+	linkURL="images/13445427_1911460842414437_427895172283748983_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13466148_1911459805747874_2387419358442162817_n.jpg"
+	thumbURL="thumbs/13466148_1911459805747874_2387419358442162817_n.jpg"
+	linkURL="images/13466148_1911459805747874_2387419358442162817_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13497575_1911462602414261_2946603335217662085_o.jpg"
+	thumbURL="thumbs/13497575_1911462602414261_2946603335217662085_o.jpg"
+	linkURL="images/13497575_1911462602414261_2946603335217662085_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13416757_1911462975747557_8882162874433214679_o.jpg"
+	thumbURL="thumbs/13416757_1911462975747557_8882162874433214679_o.jpg"
+	linkURL="images/13416757_1911462975747557_8882162874433214679_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13418913_1911461579081030_6368600268161734451_n.jpg"
+	thumbURL="thumbs/13418913_1911461579081030_6368600268161734451_n.jpg"
+	linkURL="images/13418913_1911461579081030_6368600268161734451_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13419011_1911461345747720_3272253155963363532_n.jpg"
+	thumbURL="thumbs/13419011_1911461345747720_3272253155963363532_n.jpg"
+	linkURL="images/13419011_1911461345747720_3272253155963363532_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13423728_1911460735747781_7878369113965280148_n.jpg"
+	thumbURL="thumbs/13423728_1911460735747781_7878369113965280148_n.jpg"
+	linkURL="images/13423728_1911460735747781_7878369113965280148_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

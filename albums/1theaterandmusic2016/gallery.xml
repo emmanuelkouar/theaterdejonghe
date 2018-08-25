@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/13418683_1911464089080779_6747193464358937728_n.jpg"
+	thumbURL="thumbs/13418683_1911464089080779_6747193464358937728_n.jpg"
+	linkURL="images/13418683_1911464089080779_6747193464358937728_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13450022_1911464942414027_5587663497774691009_n.jpg"
+	thumbURL="thumbs/13450022_1911464942414027_5587663497774691009_n.jpg"
+	linkURL="images/13450022_1911464942414027_5587663497774691009_n.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13458636_1911464045747450_2961511149065857725_o.jpg"
+	thumbURL="thumbs/13458636_1911464045747450_2961511149065857725_o.jpg"
+	linkURL="images/13458636_1911464045747450_2961511149065857725_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13483186_1911465559080632_7388850706890974818_o.jpg"
+	thumbURL="thumbs/13483186_1911465559080632_7388850706890974818_o.jpg"
+	linkURL="images/13483186_1911465559080632_7388850706890974818_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>

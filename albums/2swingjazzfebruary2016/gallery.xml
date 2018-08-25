@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	title="Swing &amp; Jazz February 2016"
+	frameColor="333333"
+
+>
+  <image imageURL="images/13198527_1897446817149173_2441428588369799522_o.jpg"
+	thumbURL="thumbs/13198527_1897446817149173_2441428588369799522_o.jpg"
+	linkURL="images/13198527_1897446817149173_2441428588369799522_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13217146_1897447263815795_2717290582049038058_o.jpg"
+	thumbURL="thumbs/13217146_1897447263815795_2717290582049038058_o.jpg"
+	linkURL="images/13217146_1897447263815795_2717290582049038058_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13220793_1897446407149214_8677213889188239601_o.jpg"
+	thumbURL="thumbs/13220793_1897446407149214_8677213889188239601_o.jpg"
+	linkURL="images/13220793_1897446407149214_8677213889188239601_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13227623_1897447410482447_4419157176535231431_o.jpg"
+	thumbURL="thumbs/13227623_1897447410482447_4419157176535231431_o.jpg"
+	linkURL="images/13227623_1897447410482447_4419157176535231431_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13243676_1897446773815844_7942363155754467383_o.jpg"
+	thumbURL="thumbs/13243676_1897446773815844_7942363155754467383_o.jpg"
+	linkURL="images/13243676_1897446773815844_7942363155754467383_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13248499_1897447727149082_8040442278483982023_o.jpg"
+	thumbURL="thumbs/13248499_1897447727149082_8040442278483982023_o.jpg"
+	linkURL="images/13248499_1897447727149082_8040442278483982023_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/13254647_1897447890482399_5171856180777237500_o.jpg"
+	thumbURL="thumbs/13254647_1897447890482399_5171856180777237500_o.jpg"
+	linkURL="images/13254647_1897447890482399_5171856180777237500_o.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
